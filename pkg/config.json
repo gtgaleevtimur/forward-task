@@ -1,0 +1,4 @@
+{
+    "server_address": ":8080",
+    "server_mode": "serve"
+}
